@@ -22,6 +22,41 @@
   color: #61dafb;
 }
 
+.signOutButton {
+  height: 50px;
+  width: 240px !important;
+  border-radius: 50px !important;
+  background-color: white;
+}
+
+.roundIcon {
+  padding: 16px;
+  border-radius: 50px;
+}
+
+.buttonText {
+  font-size: 16px !important;
+  line-height: 48px !important;
+  color: black;
+}
+
+.marginRight {
+  margin-right: 24px;
+}
+
+.Title {
+  position: absolute;
+  top: 0;
+}
+
+.invisibleButton {
+  display: none;
+}
+
+.profileImg {
+  margin-bottom: 1em;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
